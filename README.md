@@ -1,0 +1,1 @@
+To simulate cyber-attacks on a cloud-based enterprise environment, detect malicious activity using SIEM logs, identify root causes, fix vulnerabilities, and harden the system following industry standards.
